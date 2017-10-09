@@ -2,6 +2,7 @@ phpcassa
 ========
 
 [![Build Status](https://secure.travis-ci.org/thobbs/phpcassa.png?branch=master)](http://travis-ci.org/thobbs/phpcassa)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fphpcassa.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fphpcassa?ref=badge_shield)
 
 phpcassa is a PHP client library for [Apache Cassandra](http://cassandra.apache.org).
 
@@ -106,3 +107,7 @@ Getting Help
 
 * Mailing list: [phpcassa on google groups](http://groups.google.com/group/phpcassa)
 * IRC: Channel #cassandra on irc.freenode.net
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fphpcassa.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fphpcassa?ref=badge_large)
